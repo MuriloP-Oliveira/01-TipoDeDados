@@ -7,7 +7,8 @@ using namespace std;
 int main()
 {
 	cout << "Estrutura de Dados - Fatec" << endl;
-	
+	cout << "Murilo Pereira 13/08" << endl;
+
 	cout << "Tipos Numericos\n";
 	cout << "===============\n";
 	int i = 10;
@@ -65,6 +66,7 @@ int main()
 	dias = idade * 365;
 	horas = dias * 24;
 	minutos = horas * 60;
+	cout << "Seu Nome e: " << nome << endl;
 	cout << "Sua idade em dias e: " << dias << endl;
 	cout << "Sua idade em horas e: " << horas << endl;
 	cout << "Sua idade em minutos e: " << minutos << endl;
